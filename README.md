@@ -14,6 +14,6 @@ We do collect non-personal, statistical text and numerical information to improv
 
 We do not retain credit card information or bank account information. 
 
-### suport
+### support
 
 you can send mail to ggsonic@gmail.com to get support.
