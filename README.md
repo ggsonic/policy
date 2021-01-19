@@ -1,10 +1,10 @@
 ### privacy
 
-Talking Kitty: Voice Changer Privacy Policy
+CartoonLab Privacy Policy
 
-This is the official privacy policy for Talking Kitty: Voice Changer Mobile Application. Talking Kitty: Voice Changer is owned and operated by developer ggsonic. We keep a no-nonsense policy, so you can actually understand it.
+This is the official privacy policy for CartoonLab Mobile Application. CartoonLab is owned and operated by developer ggsonic. We keep a no-nonsense policy, so you can actually understand it.
 
-Talking Kitty: Voice Changer never stores any personally identifiable information on any user other than the following which is kept on our secure network: Your mobile number, your unique phone ID, and your first and last name. We DO NOT store credit card numbers.
+CartoonLab never stores any personally identifiable information on any user other than the following which is kept on our secure network: your unique phone ID. We DO NOT store credit card numbers.
 
 We do not read any text messages or save any audio(or video) created from them.
 
